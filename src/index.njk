@@ -3,36 +3,34 @@ title: Rachel Blot
 layout: 'base.njk'
 ---
 
-<main>
-  <section class="hero">
-    <div class="container flow">
-      <div class="hero__content flow">
-        <h1 class="section-title">Bienvenue sur le blog de Rachel !</h1>
-        <p>Créatrice et animatrice de l'émission "Il était une fois Israël" à Radio Chalom Nitsan, je suis l'auteur de plusieurs ouvrages tels que "La force d'y croire" publié en 2018 aux Presses du Midi. J'ai également participé à la rédaction d'articles sur la revue municipale de Villeneuve-Loubet (Alpes Maritimes).</p>
-        <p>Mes livres sont le récit de particuliers dans un contexte historique ayant pour toile de fond, tantôt l'Algérie des années 50-60 tantôt la France jusqu'à nos jours. J'écris sous le nom d'auteur Judith Meyer pour la plupart de mes ouvrages.</p>
-        <p>Vous pouvez vous procurer "La force d'y croire" tome 1 sur La Fnac en cliquant sur le lien suivant <a href="https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire">https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire</a>.</p>
-        <p><i>Rachel Blot</i></p>
-        <div class="flex-group">
-          <a href="#featured-articles" class="btn btn--primary">Mes livres</a>
-          <a href="./blog" class="btn btn--neutral">Mon blog</a>
-        </div>
-      </div>
-      <div>
-        <img src="./assets/hero-image.jpg" alt="hero image" class="hero__image">
+<section class="hero">
+  <div class="container flow">
+    <div class="hero__content flow">
+      <h1 class="section-title">Bienvenue sur le blog de Rachel !</h1>
+      <p>Créatrice et animatrice de l'émission "Il était une fois Israël" à Radio Chalom Nitsan, je suis l'auteur de plusieurs ouvrages tels que "La force d'y croire" publié en 2018 aux Presses du Midi. J'ai également participé à la rédaction d'articles sur la revue municipale de Villeneuve-Loubet (Alpes Maritimes).</p>
+      <p>Mes livres sont le récit de particuliers dans un contexte historique ayant pour toile de fond, tantôt l'Algérie des années 50-60 tantôt la France jusqu'à nos jours. J'écris sous le nom d'auteur Judith Meyer pour la plupart de mes ouvrages.</p>
+      <p>Vous pouvez vous procurer "La force d'y croire" tome 1 sur La Fnac en cliquant sur le lien suivant <a href="https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire">https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire</a>.</p>
+      <p><i>Rachel Blot</i></p>
+      <div class="flex-group">
+        <a href="#featured-articles" class="btn btn--primary">Mes livres</a>
+        <a href="./blog" class="btn btn--neutral">Mon blog</a>
       </div>
     </div>
-  </section>
-  <section id="featured-articles" class="featured-articles">
-    <div class="container flow">
-      <h2 class="section-title text-center ">Mes livres</h2>
-      <p class="text-center"><i>Par date de parution<i></p>
-      <ul role="list" class="articles__list flow">
-
-        {%- for post in collections.livre | reverse -%}
-          {% include 'article-snippet.njk' %}
-        {%- endfor -%}
-
-      </ul>
+    <div>
+      <img src="./assets/hero-image.jpg" alt="hero image" class="hero__image">
     </div>
-  </section>
-</main>
+  </div>
+</section>
+<section id="featured-articles" class="featured-articles">
+  <div class="container flow">
+    <h2 class="section-title text-center ">Mes livres</h2>
+    <p class="text-center"><i>Par date de parution<i></p>
+    <ul role="list" class="articles__list flow">
+
+      {%- for post in collections.livre | reverse -%}
+        {% include 'article-snippet.njk' %}
+      {%- endfor -%}
+
+    </ul>
+  </div>
+</section>

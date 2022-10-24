@@ -1,7 +1,7 @@
 ---
-title: Mon deuxième livre
-author: Rachel
-date: 2022-10-21
+title: Un vent de liberté
+author: Judith Meyer
+date: 2018-12-10
 tags: ["post", "livre"]
 image: /assets/image/livre-2.jpg
 imageAlt: Description de l'image

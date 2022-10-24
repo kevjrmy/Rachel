@@ -1,19 +1,19 @@
 ---
-title: Mon premier livre
-author: Rachel
-date: 2022-10-21
+title: La force d'y croire, Tome 1
+author: Judith Meyer
+date: 2018-10-01
 tags: ["post", "livre"]
 image: /assets/image/livre-1.jpg
-imageAlt: Description de l'image
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
+imageAlt: La force d'y croire, Tome 1
+description: Une vie ? Un flash imperceptible dans l'immensité de l'univers... Le mystère et le miracle n'existent pas. Ces termes employés sont des métaphores pour justifier la méconnaissance de tout ce qui fait parti des forces composantes de notre sphère céleste. Une destinée ne se prépare pas elle se vit en fonction de la providence qui laisse à l'humain son libre arbitre.
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Risus commodo viverra maecenas accumsan lacus vel. Donec ultrices tincidunt arcu non sodales. Mattis rhoncus urna neque viverra justo nec ultrices dui sapien. Pretium quam vulputate dignissim suspendisse in est. Lobortis mattis aliquam faucibus purus in massa tempor nec. Elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Vulputate eu scelerisque felis imperdiet proin. Nisl nisi scelerisque eu ultrices.
+### RÉSUMÉ : 
 
-Enim nulla aliquet porttitor lacus luctus accumsan. Vulputate mi sit amet mauris commodo quis. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Placerat orci nulla pellentesque dignissim. Consequat mauris nunc congue nisi. Nec nam aliquam sem et tortor consequat. Consequat semper viverra nam libero justo laoreet sit amet. Id interdum velit laoreet id donec. Turpis in eu mi bibendum neque. Tincidunt vitae semper quis lectus. Suscipit adipiscing bibendum est ultricies integer quis auctor. Posuere urna nec tincidunt praesent semper. Sagittis id consectetur purus ut faucibus pulvinar elementum. Diam maecenas ultricies mi eget mauris. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper. Dui sapien eget mi proin sed.
+Élisa prend conscience, dans les premières années de sa vie que la plénitude résulte toujours d’un libre arbitre dans les réponses exprimées selon des convictions et des analyses, propres à soi, pour le futur choix d’une vie.
 
-In iaculis nunc sed augue lacus. Pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum. Consectetur adipiscing elit ut aliquam. Tortor consequat id porta nibh venenatis cras sed. Integer enim neque volutpat ac tincidunt. Pellentesque pulvinar pellentesque habitant morbi. Ut enim blandit volutpat maecenas. Risus quis varius quam quisque id. Turpis tincidunt id aliquet risus. Congue eu consequat ac felis donec.
+Cela pour assumer pleinement sa personnalité, et acquérir l’apaisement nécessaire au long cheminement qui lui sera imposé pour évoluer dans cette nature qui reste pour elle, le berceau donné à l’homme pour accomplir ce, pourquoi il est sur Terre, et retourner dans la sérénité, derrière la porte du visible. Un récit dans l’absolue sincérité, sans complaisance, certes, mais avec toujours l’amour des humains qui se traduit par le respect d’autrui. C’est le récit d’une régularisation, la reprise d’une identité, d’une spécificité…Dans le premier témoignage du parcours emprunté depuis sa naissance, Élisa, a occulté certains passages.
 
-Aliquam vestibulum morbi blandit cursus risus at. Malesuada fames ac turpis egestas sed tempus. Donec et odio pellentesque diam volutpat commodo sed egestas egestas. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Enim diam vulputate ut pharetra sit amet aliquam. Est ante in nibh mauris cursus mattis. Viverra ipsum nunc aliquet bibendum enim facilisis gravida neque. Nec ultrices dui sapien eget mi proin sed libero enim. Sed sed risus pretium quam vulputate. Sit amet luctus venenatis lectus magna.
+D’autres souvenirs se manifestent, revendiquent une place, dans la narration, reliant le déjà-dit aux découvertes de la mémoire qui interroge, à nouveau, son passé. Elle va donc, extirper de son subconscient, d’autres passages endormis, afin de mettre, un peu plus à jour… Sa vie qui, à l’instar de milliards d’existences qui sont à peine perceptibles dans l’immensité des galaxies visibles ou ignorées, laisse, ainsi que la tienne, la trace d’un passage.
 
-Mauris nunc congue nisi vitae suscipit tellus mauris. Vitae et leo duis ut. Arcu cursus euismod quis viverra nibh. Amet mauris commodo quis imperdiet. Condimentum lacinia quis vel eros donec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Faucibus nisl tincidunt eget nullam. Cursus metus aliquam eleifend mi in nulla. Ut placerat orci nulla pellentesque dignissim enim sit amet. Lobortis feugiat vivamus at augue eget arcu dictum. Nunc faucibus a pellentesque sit amet porttitor. Quis varius quam quisque id diam vel quam elementum pulvinar.
+[https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire](https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire)
