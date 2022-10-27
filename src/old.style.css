@@ -220,6 +220,11 @@ section,
   text-decoration: underline;
 }
 
+.nav-list i {
+  margin-left: 0.5rem;
+  color: red;
+}
+
 /* //////////////////////
   Footer
   /////////////////////// */
