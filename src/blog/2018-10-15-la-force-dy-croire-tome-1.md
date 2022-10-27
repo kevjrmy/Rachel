@@ -13,3 +13,7 @@ description: Une vie ? Un flash imperceptible dans l'immensité de l'univers... 
 Élisa prend conscience, dans les premières années de sa vie que la plénitude résulte toujours d’un libre arbitre dans les réponses exprimées selon des convictions et des analyses, propres à soi, pour le futur choix d’une vie. Cela pour assumer pleinement sa personnalité, et acquérir l’apaisement nécessaire au long cheminement qui lui sera imposé pour évoluer dans cette nature qui reste pour elle, le berceau donné à l’homme pour accomplir ce pourquoi il est sur Terre, et retourner dans la sérénité, derrière la porte du visible. Un récit dans l’absolue sincérité, sans complaisance, certes, mais avec toujours l’amour des humains qui se traduit par le respect d’autrui. C’est le récit d’une régularisation, la reprise d’une identité, d’une spécificité …
 
 [https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire](https://livre.fnac.com/a12994040/Judith-Meyer-La-force-d-y-croire)
+
+Extrait vidéo:
+
+[![LA FORCE D'Y CROIRE VIDEO](https://img.youtube.com/vi/8pwbPrFCepY/0.jpg)](https://www.youtube.com/watch?v=8pwbPrFCepY)
