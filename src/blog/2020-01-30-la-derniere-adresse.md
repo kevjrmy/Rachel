@@ -65,3 +65,7 @@ déjà voisines. Ils grandissent, ensemble, volent les beignets arabes, ensemble
 jouent au ballon dans la cour, ensemble, vont à l’école, ensemble …
 
 [https://livre.fnac.com/a14165267/Judith-Meyer-La-derniere-adresse](https://livre.fnac.com/a14165267/Judith-Meyer-La-derniere-adresse)
+
+Extrait vidéo:
+
+[![LA DERNIERE ADRESSE EXTRAIT VIDEO](https://img.youtube.com/vi/x3Qp8gkIr-c/0.jpg)](https://www.youtube.com/watch?v=x3Qp8gkIr-c)
