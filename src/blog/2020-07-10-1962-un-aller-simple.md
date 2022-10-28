@@ -25,7 +25,9 @@ J’emménage dans cette France, décrite par mon père comme une patrie dont no
 
 Mon pays, peut- être, mais ma maison ?
 
-C’est Alger, ma maison. Je veux retourner à la maison !.
+C’est Alger, ma maison. Je veux retourner à la maison !
+
+![Photo prise au Ruisseau (Alger) autour de l'année 56-57 ](/assets/image/ruisseau.png "Photo prise au Ruisseau (Alger) autour de l'année 56-57 ")
 
 En cet après 1962, pendant quasiment vingt années, mon chez-moi reste Alger.
 
@@ -104,3 +106,7 @@ Ce que je retiendrai de ma période africaine : avant le désespoir, l’immense
 L’air de cette Algérie, au sein d’une France, aimée.
 
 [https://livre.fnac.com/a15198011/Judith-Meyer-1962-un-aller-simple](https://livre.fnac.com/a15198011/Judith-Meyer-1962-un-aller-simple)
+
+Extrait vidéo:
+
+[![UN ALLER SIMPLE](https://img.youtube.com/vi/yvbN_hUfuRE/0.jpg)](https://www.youtube.com/watch?v=yvbN_hUfuRE)
