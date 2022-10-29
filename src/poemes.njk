@@ -1,0 +1,15 @@
+---
+title: Poêmes
+layout: 'base.njk'
+---
+
+<div class="section container">
+  <h1 class="section-title">Poêmes</h1>
+  <ul role="list" class="articles__list flow">
+
+    {%- for post in collections.poeme | reverse -%}
+      {% include 'article-snippet.njk' %}
+    {%- endfor -%}
+    
+  </ul>
+</div>
