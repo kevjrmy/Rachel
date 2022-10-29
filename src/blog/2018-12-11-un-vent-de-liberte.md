@@ -43,3 +43,7 @@ Pleins Feux
 Sur des États d’âme, dans deux parcours de vie.
 
 [https://livre.fnac.com/a13167919/Judith-Meyer-Un-vent-de-liberte](https://livre.fnac.com/a13167919/Judith-Meyer-Un-vent-de-liberte)
+
+Extrait vidéo:
+
+[![UN VENT DE LIBERTE](https://img.youtube.com/vi/zEn7q7__W6c/0.jpg)](https://www.youtube.com/watch?v=zEn7q7__W6c)

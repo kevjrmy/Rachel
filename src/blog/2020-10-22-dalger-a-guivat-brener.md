@@ -17,3 +17,7 @@ Asie, Afrique, Amérique, Antarctique, Europe, Océanie……Forment Un seul et 
 D’Alger à Givat Brenner, c’est le plus simplement du Monde, la vie d’un des êtres de notre planète.
 
 [https://livre.fnac.com/a15235544/Judith-Meyer-D-Alger-a-Guivat-Brener](https://livre.fnac.com/a15235544/Judith-Meyer-D-Alger-a-Guivat-Brener)
+
+Extrait vidéo:
+
+[![D ALGER A GUIVAT BRENER](https://img.youtube.com/vi/JhQKhhu93X0/0.jpg)](https://www.youtube.com/watch?v=JhQKhhu93X0)
