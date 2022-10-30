@@ -9,7 +9,7 @@ description: Ce poème, a été crée le soir des 18 ans de mon 1er petit-fils
 ---
 
 
-### S’en est allée, l’adolescence
+### S’en est allé, l’adolescence
 
 Mais le regard se tourne, encore
 
