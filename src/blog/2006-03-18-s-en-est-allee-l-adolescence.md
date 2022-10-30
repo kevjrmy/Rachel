@@ -1,15 +1,15 @@
 ---
-title: S'en est allé l'adolescence
+title: S'en est allée l'adolescence
 author: Rachel Blot
 date: 2006-03-18
 tags: ["poeme"]
-image: /assets/image/s-en-est-allé-l-adolescence.jpg
+image: /assets/image/s-en-est-allée-l-adolescence.jpg
 imageAlt: Les vagues houleuses symbolisent le passage d'un ado à l'âge adulte
 description: Ce poème, a été crée le soir des 18 ans de mon 1er petit-fils
 ---
 
 
-### S’en est allé, l’adolescence
+### S’en est allée, l’adolescence
 
 Mais le regard se tourne, encore
 
@@ -25,7 +25,7 @@ Le doux sourire de l’espoir
 
 Qui fait qu’après, un cœur soit pris
 
-S’en est allé l’adolescence
+S’en est allée l’adolescence
 
 Mais impossible à désancrer
 
