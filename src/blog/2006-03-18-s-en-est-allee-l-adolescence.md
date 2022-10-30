@@ -5,7 +5,7 @@ date: 2006-03-18
 tags: ["poeme"]
 image: /assets/image/s-en-est-allée-l-adolescence.jpg
 imageAlt: Les vagues houleuses symbolisent le passage d'un ado à l'âge adulte
-description: Ce poème, a été crée le soir des 18 ans de mon 1er petit-fils
+description: Ce poème, a été créé le soir des 18 ans de mon 1er petit-fils
 ---
 
 
