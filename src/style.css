@@ -60,14 +60,14 @@ dd {
 }
 
 /* Remove list styles on ul, ol elements with a list role, which suggests default styling will be removed */
-ul:where([role="list"]),
-ol:where([role="list"]) {
+ul,
+ol {
   list-style: none;
   margin: 0;
   padding: 0;
 }
 /* Set core root defaults */
-html:focus-within {
+html {
   scroll-behavior: smooth;
 }
 
@@ -225,7 +225,14 @@ section,
 .nav-list i {
   margin-left: 0.5rem;
   margin-right: 4px;
+}
+
+.youtube i {
   color: red;
+}
+
+.facebook i {
+  color: #385898;
 }
 
 /* //////////////////////
@@ -397,18 +404,18 @@ section,
   background-color: var(--clr-neutral-900);
 }
 
-/* //////////////////////
-  Responsive Youtube link
-  /////////////////////// */
+/* ///////////////////////////
+  Responsive social-media link
+  //////////////////////////// 
 
-.youtube {
+.youtube, .facebook {
   display: flex;
   align-items: center;
 }
 
 .lg-screen {
   display: none
-}
+}S
 /* +> 992px screens */
 @media screen and (min-width: 700px) {
   .lg-screen {

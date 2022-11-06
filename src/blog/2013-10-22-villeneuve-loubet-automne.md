@@ -31,7 +31,6 @@ Quelques photos automnales prises en 2013 à Villeneuve-Loubet.
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/20.JPG)
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/21.JPG)
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/22.JPG)
-![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/23JPG)
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/23.JPG)
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/24.JPG)
 ![Villeneuve-Loubet, automne 2013](/assets/image/gallerie/villeneuve-loubet-automne-2013/25.JPG)
