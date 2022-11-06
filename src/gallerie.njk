@@ -1,13 +1,13 @@
 ---
-title: Articles
+title: Gallerie
 layout: 'base.njk'
 ---
 
 <div class="section container">
-  <h1 class="section-title">Articles</h1>
+  <h1 class="section-title">Gallerie</h1>
   <ul role="list" class="articles__list flow">
 
-    {%- for post in collections.article | reverse -%}
+    {%- for post in collections.gallerie | reverse -%}
       {% include 'article-snippet.njk' %}
     {%- endfor -%}
     
