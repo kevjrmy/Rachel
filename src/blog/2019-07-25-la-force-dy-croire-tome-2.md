@@ -3,7 +3,7 @@ title: La force d'y croire, Tome 2
 author: Judith Meyer
 date: 2019-07-25
 tags: ["livre"]
-image: /assets/image/livre-3.jpg
+image: /assets/image/livres/livre-3.jpg
 imageAlt: La force d'y croire, Tome 2, aux éditions "LesPressesDuMidi"
 description: Le récit de la vie d'Élisa continue à bâtons rompus certes, mais, à l'instar du Tome 1, empreint d'authenticité.
 ---

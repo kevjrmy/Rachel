@@ -3,7 +3,7 @@ title: La force d'y croire, Tome 1
 author: Judith Meyer
 date: 2018-10-15
 tags: ["livre"]
-image: /assets/image/livre-1.jpg
+image: /assets/image/livres/livre-1.jpg
 imageAlt: La force d'y croire, Tome 1, aux éditions "LesPressesDuMidi"
 description: Une vie ? Un flash imperceptible dans l'immensité de l'univers... Le mystère et le miracle n'existent pas. Ces termes employés sont des métaphores pour justifier la méconnaissance de tout ce qui fait parti des forces composantes de notre sphère céleste. Une destinée ne se prépare pas elle se vit en fonction de la providence qui laisse à l'humain son libre arbitre.
 ---

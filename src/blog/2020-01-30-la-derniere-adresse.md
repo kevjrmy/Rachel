@@ -3,7 +3,7 @@ title: La dernière adresse
 author: Judith Meyer
 date: 2020-01-30
 tags: ["livre"]
-image: /assets/image/livre-4.jpg
+image: /assets/image/livres/livre-4.jpg
 imageAlt: La dernière adresse, aux éditions "LesPressesDuMidi"
 description:  La solitude, confine un être dans une prison virtuelle, engendre un mutisme éloquent parce que les journées vont défiler sans qu’aucune visite fasse ouvrir la porte d’un appartement ou d’une maison. Les appels téléphoniques, le temps d’entendre — Oui, je vais bien remplacent-ils la chaleur humaine ? Le Monde, perd tous les repaires nécessaires à la civilisation qui est censé protéger l’homme. Le veau d’or a refait surface, oubliant toutes les valeurs de l’humanité. Ce n’est pas une personne qui entre dans une maison de retraite, c’est Une Vie qui se déplace ! Méditons !
 ---

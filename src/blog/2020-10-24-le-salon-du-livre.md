@@ -3,7 +3,7 @@ title: Salon du livre, octobre 2020
 author: Rachel Blot
 date: 2020-10-24
 tags: ["post"]
-image: /assets/image/salon-du-livre.jpg
+image: /assets/image/posts/salon-du-livre.jpg
 imageAlt: présentation du livre
 description: Préface de Guy Senbel, fondateur de GUYSEN.TV, chaine d’information internationale israélienne en langue française.
 ---

@@ -3,7 +3,7 @@ title: Un vent de liberté
 author: Judith Meyer
 date: 2018-12-11
 tags: ["livre"]
-image: /assets/image/livre-2.jpg
+image: /assets/image/livres/livre-2.jpg
 imageAlt: Un vent de liberté, aux éditions "LesPressesDuMidi"
 description: Laisser sa plume exprimer tout ce qui traverse l’esprit et bouscule l’âme, dévoile une amitié donnée ou reçue, un amour insoupçonné ou avoué. Ces ressentis tardifs ou nouveaux n’entravent aucun avenir du fait que ces lumières frissonnantes représentent, dans ce monde si difficile, l’expression d’une libération. Celle qui va permettre d’entrer avec bonheur ou désespoir, dans un virtuel secouant la réalité qui, quelquefois, a tant besoin d’évasion.
 ---
