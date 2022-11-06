@@ -2,7 +2,7 @@
 title: D'Alger à Guivat-Brener
 author: Judith Meyer & Evelyne Boumendil
 date: 2020-10-22
-tags: ["post", "livre"]
+tags: ["livre"]
 image: /assets/image/livre-6.jpg
 imageAlt: D'Alger à Guivat-Brener, aux éditions "LesPressesDuMidi"
 description: C'est l'histoire d'une rencontre - celle d'une belle jeune femme qu'on a, un temps, nommé rappatriée d'Algérie, avec le kibboutz de ses rêves d'antan. Ils se sont vus, adoptés, aimés. C'est aussi le récit d'un retour. Les années ont passées, mais, c'est au kibboutz que les valises se sont définitivement posées. La volonté de cette femme, Evelyne Rahel, a permis le bonheur d'une famille.

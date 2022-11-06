@@ -2,7 +2,7 @@
 title: 1962 un aller simple
 author: Judith Meyer
 date: 2020-07-10
-tags: ["post", "livre"]
+tags: ["livre"]
 image: /assets/image/livre-5.jpg
 imageAlt: 1962 un aller simple, aux éditions "LesPressesDuMidi"
 description: Pour quelle raison demander aux amis du Ruisseau de la ville d’Alger, de se souvenir, de leur passage de l’Algérie, à la France ? N’ont-ils pas essuyé suffisamment de larmes pour les solliciter à nouveau ? Ce temps lointain, resurgi, leur permettra de rétablir l’authenticité d’une vie dans cette Afrique du Nord, ouverte alors à toutes les âmes de bonne volonté, faire comprendre, aux enfants, comment des hommes et des femmes, venus des horizons les plus divers, ont cohabité dans un total respect du voisin, lui aussi arrivé par bateau d’un des ports de ce bassin méditerranéen. À ceux, français de métropole, ayant pris des positions de défense des uns, et de rejet des autres, sans rien connaître du contexte véridique, un conseil sincère - Méditez ! L’ignorance entraîne une ingérence injuste qui provoque, chez l’innocente victime, le désarroi, une souffrance, une punition injustifiée.
