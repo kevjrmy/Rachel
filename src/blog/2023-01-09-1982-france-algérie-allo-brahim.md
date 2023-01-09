@@ -11,4 +11,6 @@ imageAlt: A gauche, le collège technique où mon père est à l'intendance. En
 ---
 20 ans après le douloureux départ d'Alger, je reviens sur ma Terre natale, accompagnée par 25 Ruisseens, fils et filles de ma cité. Le récit de notre arrivée, et des retrouvailles dans une grande émotion. Mon témoignage !
 
+(cliquez sur l'image ci-dessous pour écouter l'extrait vidéo)
+
 [![1982 France Algérie ! Allo Brahim ?](https://img.youtube.com/vi/QII7gc56oik/0.jpg)](https://www.youtube.com/watch?v=QII7gc56oik)
